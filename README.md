@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Bilibili-B站-ff69b4?logo=bilibili&logoColor=white&labelColor=2e2e2e&style=for-the-badge" />
   </a>
 
-  <a href="mailto:yanghuaqing452@outlook.com">
+  <a href="mailto:shxs114514@163.com">
     <img src="https://img.shields.io/badge/Email-邮箱-1e90ff?logo=gmail&logoColor=white&labelColor=2e2e2e&style=for-the-badge" />
   </a>
 
