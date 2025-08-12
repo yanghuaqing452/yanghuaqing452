@@ -5,4 +5,4 @@
 
 ## 👋 社交账号
 
-[bilibili](https://b23.tv/eeM1uVB)
+[bilibili](https://space.bilibili.com/3546717974694197)
