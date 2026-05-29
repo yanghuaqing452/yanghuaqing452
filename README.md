@@ -5,7 +5,7 @@
 <br/>
 
 <!-- 访客计数 -->
-<img src="https://komarev.com/ghpvc/?username=yanghuaqing452&color=58A6FF&style=flat-square&label=访客数" />
+<img src="https://komarev.com/ghpvc/?username=yanghuaqing452&color=58A6FF&style=for-the-badge&label=访客数" />
 
 </div>
 
