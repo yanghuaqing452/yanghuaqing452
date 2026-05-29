@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- 打字动画 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=你好，我是+yanghuaqing452+👋;正在学习+%7C+开发+%7C+重构;Python+%2F+Node.js+%2F+Linux+爱好者" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?lines=你好，我是yanghuaqing452👋;这里是我的个人博客&center=true&size=27&color=FFFFFF&background=111111&vCenter=true&width=500" />
 
 <br/>
 
