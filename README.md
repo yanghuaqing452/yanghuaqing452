@@ -4,9 +4,6 @@
 
 <br/>
 
-<!-- 访客计数 -->
-<img src="https://komarev.com/ghpvc/?username=yanghuaqing452&color=58A6FF&style=for-the-badge&label=访客数" height="56" />
-
 </div>
 
 ---
@@ -87,7 +84,7 @@ class yanghuaqing452:
 </a>
 &nbsp;
 <a href="mailto:scrape-fe@wqtiingqi.anonaddy.com">
-  <img src="https://img.shields.io/badge/Email-shxs114514@163.com-D44638?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2e2e2e" />
+  <img src="https://img.shields.io/badge/Email-邮箱-D44638?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2e2e2e" />
 </a>
 
 </div>
