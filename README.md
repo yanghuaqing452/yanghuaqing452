@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=你好，我是yanghuaqing452👋;这里是我的个人博客&center=true&size=27&color=FFFFFF&background=111111&vCenter=true&width=500" />
+<img src="https://readme-typing-svg.herokuapp.com?lines=你好，我是yanghuaqing452👋;这里是我的个人主页(=^▽^=)&center=true&size=27&color=FFFFFF&background=111111&vCenter=true&width=500" />
 
 <br/>
 
 <!-- 访客计数 -->
-<img src="https://komarev.com/ghpvc/?username=yanghuaqing452&color=58A6FF&style=for-the-badge&label=访客数" />
+<img src="https://komarev.com/ghpvc/?username=yanghuaqing452&color=58A6FF&style=for-the-badge&label=访客数" height="56" />
 
 </div>
 
