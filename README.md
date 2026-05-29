@@ -64,11 +64,6 @@ class yanghuaqing452:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yanghuaqing452&show_icons=true&theme=tokyonight&hide_border=true&locale=cn&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanghuaqing452&layout=compact&theme=tokyonight&hide_border=true&locale=cn" height="165"/>
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanghuaqing452&theme=tokyonight&hide_border=true&locale=zh_Hans" />
 
 </div>
